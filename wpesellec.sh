@@ -53,7 +53,7 @@ dep_all(){
 	PACKAGE="jp2a"
 	if ! pacman -Q "$PACKAGE" > /dev/null 2>&1; then
 	    echo "$PACKAGE is not installed. Installing it now..."
-	    sudo pacman -Sy --noconfirm "$PACKAGE"
+	    sudo pacman -S --noconfirm "$PACKAGE"
 	else
 	    echo "$PACKAGE is already installed."
 	fi
