@@ -5,4 +5,6 @@ then just run
 ```sh
 wpeselec.sh -i #installs the dependencies
 ```
-and then `wpeselec` to switch between wallpapers
+and then `wpeselec.sh` to switch between wallpapers
+
+if you need any help add me on discord.
