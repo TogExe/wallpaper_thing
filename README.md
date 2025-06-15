@@ -1,4 +1,4 @@
-# My thing to simplify wallpapers on arch
+# My thing to simplify Almamu's linux-wallpaperengine on arch
 *Sorry for the ugly code i was probably too tired to make something clean*
 --
 all you need is the sh and to have installed steam via 
@@ -26,3 +26,4 @@ source = ~/.config/hypr/wpe.conf
 ```
 ### Step 3 :
 Use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
+linux-wallpaperengine
