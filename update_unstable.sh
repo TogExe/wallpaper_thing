@@ -112,7 +112,7 @@ modify_file() {
     touch file_path
 	#truncate -s 0 file_path
 	#printf "New content\n" >> file_path
-	echo "exec-once = ./tog.sh --n $n" | tee ~/.config/hypr/wpe.conf > /dev/null
+	echo "exec-once = ./update_unstable.sh --n $n" | tee ~/.config/hypr/wpe.conf > /dev/null
 	#echo "someee data for the file" >> ~/.config/hypr/wpe.conf
     #cat "~/.config/hypr/wp_engstartup.conf" 
     #"text"
