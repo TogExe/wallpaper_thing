@@ -26,4 +26,6 @@ source = ~/.config/hypr/wpe.conf
 ```
 ### Step 3 :
 Use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
-linux-wallpaperengine
+--
+for more info on what i use check
+(linux-wallpaperengine)[https://github.com/Almamu/linux-wallpaperengine]
