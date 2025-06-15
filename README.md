@@ -12,13 +12,17 @@ and then `wpeselec.sh` to switch between wallpapers
 
 if you need any help add me on discord.
 ## Note for the unstabe update.
-- first step :
-**Create the wallpaper config file**
+### Step 1 :
+Create the wallpaper config file
 ```sh
 touch ~/.config/hypr/wpe.con
 ```
-you need to modify the `~/.config/hypr/hyprland.conf` and add 
+### Step 2 :
+> Make sure to rename the shell program to `wpeselec.sh`i  not alredy done
+
+Modify `~/.config/hypr/hyprland.conf` and add 
 ```conf
 source = ~/.config/hypr/wpe.conf
 ```
-then just use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
+### Step 3 :
+Use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
