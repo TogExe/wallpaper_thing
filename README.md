@@ -12,7 +12,8 @@ and then `wpeselec.sh` to switch between wallpapers
 
 if you need any help add me on discord.
 ## Note for the unstabe update.
-*the commands could be subject to change in the future (I wanna make it more intuitive).*
+*the commands could be subject to change in the future (I wanna make it more intuitive).
+Another inconvenient is the full requirement of hyprland. Instead of just wayland.*
 ### Step 1 :
 Create the wallpaper config file
 ```sh
