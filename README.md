@@ -3,6 +3,7 @@
 --
 all you need is the sh and to have installed steam via 
 ```pacman -S steam```
+install the wallpapers via the workshop
 then just run 
 ```sh
 wpeselec.sh -i #installs the dependencies
