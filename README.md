@@ -25,8 +25,9 @@ Modify `~/.config/hypr/hyprland.conf` and add
 source = ~/.config/hypr/wpe.conf
 ```
 ### Step 3 :
-Use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
 --
-for more info on what i use check
+Use the sh program the normal way and use `wpeselec.sh --n <number> --apply` to preview and setup the wallpaper.
+
+## for more info on what i use check
 - [Almamu](https://github.com/Almamu)'s [linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine).
 - [cslarsen](https://github.com/cslarsen)'s [jp2a](https://github.com/cslarsen/jp2a).
