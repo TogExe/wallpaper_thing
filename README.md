@@ -18,8 +18,6 @@ Create the wallpaper config file
 touch ~/.config/hypr/wpe.con
 ```
 ### Step 2 :
-> Make sure to rename the shell program to `wpeselec.sh`i  not alredy done
-
 Modify `~/.config/hypr/hyprland.conf` and add 
 ```conf
 source = ~/.config/hypr/wpe.conf
