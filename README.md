@@ -1,5 +1,5 @@
 # My thing to simplify wallpapers on arch
-*Sorry for the ugly code i was probably too lazy*
+*Sorry for the ugly code i was probably too tired to make something clean*
 --
 all you need is the sh and to have installed steam via 
 ```pacman -S steam```
